@@ -18,7 +18,7 @@ Ensure you have the required runtime environment installed (GO).
 ### Execution
 Clone the repository and run:
 ```bash
-git clone https://github.com/VARSHAN69/xml-json-v233.git
+git clone https://github.com/VarshuAi/xml-json-v233.git
 cd xml-json-v233
 ```
 Run the master script or compile the executable entry point.
