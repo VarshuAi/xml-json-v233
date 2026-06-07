@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Extracts tag indices converting XML strings to JSON maps. [Variant 233 using GO with Dracula theme]
+  name: xml-json-v233 version: 1.0 type: Repository author: VarshuAi description: >   Extracts tag indices converting XML strings to JSON maps. [Variant 233 using GO with Dracula theme] primary_tech: Go
 primary_tech: Go
 ```
 
